@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Kifunguo cha Kivinjari"
+    },
+    "ext_des": {
+        "message": "Pandisha usalama wa kivinjari chako kwa ulinzi wa nenosiri wakati wa kuanza na kipengee cha kufunga kwa kubonyeza moja ili kuzuia upatikanaji usioidhinishwa."
+    },
+    "ext_title": {
+        "message": "Bonyeza kufunga dirisha zote na kufunga kivinjari!"
+    },
+    "title_locked": {
+        "message": "Kivinjari Kimefungwa!"
+    },
+    "title_unlock": {
+        "message": "Fungua Kivinjari"
+    },
+    "title_change_passwd": {
+        "message": "Badilisha Nenosiri"
+    },
+    "title_set_passwd": {
+        "message": "Weka Nenosiri"
+    },
+    "title_last_passwd": {
+        "message": "Nenosiri la Zamani"
+    },
+    "title_new_passwd": {
+        "message": "Nenosiri Jipya"
+    },
+    "title_new_check_passwd": {
+        "message": "Thibitisha Nenosiri Jipya"
+    },
+    "notif_change_passwd": {
+        "message": "Nenosiri limebadilishwa kwa mafanikio!"
+    },
+    "notif_set_passwd": {
+        "message": "Nenosiri limewekwa!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Nenosiri lisilo sahihi!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Nenosiri halifanani!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Nenosiri la zamani sio sahihi!"
+    },
+    "notif_enter_passwd": {
+        "message": "Ingiza nenosiri lako kufungua!"
+    },
+    "btn_unlock": {
+        "message": "FUNGUA"
+    },
+    "btn_save": {
+        "message": "HIFADHI"
+    },
+    "link_review": {
+        "message": "Tathmini"
+    },
+    "link_source": {
+        "message": "Chanzo Huria"
+    }
+}

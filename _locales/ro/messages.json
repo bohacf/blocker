@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Blocat Browser"
+    },
+    "ext_des": {
+        "message": "Îmbunătățiți securitatea browser-ului dvs. cu protecție prin parolă la pornire și o funcție de blocare cu un singur clic pentru a preveni accesul neautorizat."
+    },
+    "ext_title": {
+        "message": "Faceți clic pentru a închide toate feronerie și a bloca browser-ul!"
+    },
+    "title_locked": {
+        "message": "Browser Blocat!"
+    },
+    "title_unlock": {
+        "message": "Deblocați Browser-ul"
+    },
+    "title_change_passwd": {
+        "message": "Schimbați Parola"
+    },
+    "title_set_passwd": {
+        "message": "Setați Parola"
+    },
+    "title_last_passwd": {
+        "message": "Parola Veche"
+    },
+    "title_new_passwd": {
+        "message": "Parola Nouă"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmați Parola Nouă"
+    },
+    "notif_change_passwd": {
+        "message": "Parola a fost schimbată cu succes!"
+    },
+    "notif_set_passwd": {
+        "message": "Parola a fost setată!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Parola incorectă!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Parolele nu se potrivesc!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Parola veche este incorectă!"
+    },
+    "notif_enter_passwd": {
+        "message": "Introduceți parola pentru a debloca!"
+    },
+    "btn_unlock": {
+        "message": "DEBLOCAȚI"
+    },
+    "btn_save": {
+        "message": "SALVAȚI"
+    },
+    "link_review": {
+        "message": "Recenzie"
+    },
+    "link_source": {
+        "message": "Cod Surse"
+    }
+}

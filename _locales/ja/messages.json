@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ブラウザロッカー"
+    },
+    "ext_des": {
+        "message": "起動時のパスワード保護と、1クリックでロックする機能でブラウザのセキュリティを強化します。"
+    },
+    "ext_title":{
+        "message": "すべてのウィンドウを閉じてブラウザをロックするにはクリックしてください！"
+    },
+    "title_locked": {
+        "message": "ブラウザロック中！"
+    },
+    "title_unlock": {
+        "message": "ブラウザのロック解除"
+    },
+    "title_change_passwd": {
+        "message": "パスワードを変更"
+    },
+    "title_set_passwd": {
+        "message": "パスワードを設定"
+    },
+    "title_last_passwd": {
+        "message": "旧パスワード"
+    },
+    "title_new_passwd": {
+        "message": "新しいパスワード"
+    },
+    "title_new_check_passwd": {
+        "message": "新しいパスワードの確認"
+    },
+    "notif_change_passwd": {
+        "message": "パスワードが正常に変更されました！"
+    },
+    "notif_set_passwd": {
+        "message": "パスワードが設定されました！"
+    },
+    "notif_wrong_passwd": {
+        "message": "パスワードが間違っています！"
+    },
+    "notif_not_match_passwd": {
+        "message": "パスワードが一致しません！"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "旧パスワードが間違っています！"
+    },
+    "notif_enter_passwd": {
+        "message": "ロックを解除するにはパスワードを入力してください！"
+    },
+    "btn_unlock": {
+        "message": "ロック解除"
+    },
+    "btn_save": {
+        "message": "保存"
+    },
+    "link_review": {
+        "message": "レビュー"
+    },
+    "link_source": {
+        "message": "ソースコード"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Bloqueador de Navegador"
+    },
+    "ext_des": {
+        "message": "Aumente a segurança do seu navegador com proteção por palavra-passe ao iniciar e uma funcionalidade de bloqueio com um clique para evitar acesso não autorizado."
+    },
+    "ext_title": {
+        "message": "Clique para fechar todas as janelas e bloquear o navegador!"
+    },
+    "title_locked": {
+        "message": "Navegador Bloqueado!"
+    },
+    "title_unlock": {
+        "message": "Desbloquear Navegador"
+    },
+    "title_change_passwd": {
+        "message": "Alterar Palavra-Passe"
+    },
+    "title_set_passwd": {
+        "message": "Definir Palavra-Passe"
+    },
+    "title_last_passwd": {
+        "message": "Palavra-Passe Antiga"
+    },
+    "title_new_passwd": {
+        "message": "Nova Palavra-Passe"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmar Nova Palavra-Passe"
+    },
+    "notif_change_passwd": {
+        "message": "Palavra-passe alterada com sucesso!"
+    },
+    "notif_set_passwd": {
+        "message": "Palavra-passe foi definida!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Palavra-passe incorreta!"
+    },
+    "notif_not_match_passwd": {
+        "message": "As palavras-passe não coincidem!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Palavra-passe antiga incorreta!"
+    },
+    "notif_enter_passwd": {
+        "message": "Introduza a sua palavra-passe para desbloquear!"
+    },
+    "btn_unlock": {
+        "message": "DESBLOQUEAR"
+    },
+    "btn_save": {
+        "message": "GUARDAR"
+    },
+    "link_review": {
+        "message": "Rever"
+    },
+    "link_source": {
+        "message": "Código Fonte"
+    }
+}

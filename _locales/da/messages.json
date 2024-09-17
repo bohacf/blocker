@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Browser Locker"
+    },
+    "ext_des": {
+        "message": "Forøg din browsers sikkerhed med adgangskodebeskyttelse ved opstart og en låsefunktion med ét klik for at forhindre uautoriseret adgang."
+    },
+    "ext_title":{
+        "message": "Klik for at lukke alle vinduer og låse browseren!"
+    },
+    "title_locked": {
+        "message": "Browser Låst!"
+    },
+    "title_unlock": {
+        "message": "Lås Browser Op"
+    },
+    "title_change_passwd": {
+        "message": "Skift Adgangskode"
+    },
+    "title_set_passwd": {
+        "message": "Sæt Adgangskode"
+    },
+    "title_last_passwd": {
+        "message": "Gammel Adgangskode"
+    },
+    "title_new_passwd": {
+        "message": "Ny Adgangskode"
+    },
+    "title_new_check_passwd": {
+        "message": "Bekræft Ny Adgangskode"
+    },
+    "notif_change_passwd": {
+        "message": "Adgangskoden blev ændret med succes!"
+    },
+    "notif_set_passwd": {
+        "message": "Adgangskoden er blevet sat!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Forkert adgangskode!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Adgangskoderne stemmer ikke overens!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Den gamle adgangskode er forkert!"
+    },
+    "notif_enter_passwd": {
+        "message": "Indtast din adgangskode for at låse op!"
+    },
+    "btn_unlock": {
+        "message": "LÅS OP"
+    },
+    "btn_save": {
+        "message": "GEM"
+    },
+    "link_review": {
+        "message": "Anmeldelse"
+    },
+    "link_source": {
+        "message": "Åben Kilde"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Tarayıcı Kilidi"
+    },
+    "ext_des": {
+        "message": "Başlangıçta parola koruması ve yetkisiz erişimi önlemek için tek tıklama ile kilitleme özelliği ile tarayıcınızın güvenliğini artırın."
+    },
+    "ext_title": {
+        "message": "Tüm pencereleri kapatıp tarayıcıyı kilitlemek için tıklayın!"
+    },
+    "title_locked": {
+        "message": "Tarayıcı Kilitlendi!"
+    },
+    "title_unlock": {
+        "message": "Tarayıcıyı Kilidini Aç"
+    },
+    "title_change_passwd": {
+        "message": "Parolayı Değiştir"
+    },
+    "title_set_passwd": {
+        "message": "Parola Belirle"
+    },
+    "title_last_passwd": {
+        "message": "Eski Parola"
+    },
+    "title_new_passwd": {
+        "message": "Yeni Parola"
+    },
+    "title_new_check_passwd": {
+        "message": "Yeni Parolayı Onayla"
+    },
+    "notif_change_passwd": {
+        "message": "Parola başarıyla değiştirildi!"
+    },
+    "notif_set_passwd": {
+        "message": "Parola belirlendi!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Yanlış parola!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Parolalar uyuşmuyor!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Eski parola yanlış!"
+    },
+    "notif_enter_passwd": {
+        "message": "Kilidi açmak için parolanızı girin!"
+    },
+    "btn_unlock": {
+        "message": "KİLİDİ AÇ"
+    },
+    "btn_save": {
+        "message": "KAYDET"
+    },
+    "link_review": {
+        "message": "Yorum Yap"
+    },
+    "link_source": {
+        "message": "Açık Kaynak"
+    }
+}

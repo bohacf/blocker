@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Browser Locker"
+    },
+    "ext_des": {
+        "message": "Boost your browser's security with password protection on startup and a one-click lock feature to prevent unauthorized access."
+    },
+    "ext_title":{
+        "message": "Click to close all windows and lock the browser!"
+    },
+    "title_locked": {
+        "message": "Browser Locked!"
+    },
+    "title_unlock": {
+        "message": "Unlock Browser"
+    },
+    "title_change_passwd": {
+        "message": "Change Password"
+    },
+    "title_set_passwd": {
+        "message": "Set Password"
+    },
+    "title_last_passwd": {
+        "message": "Old Password"
+    },
+    "title_new_passwd": {
+        "message": "New Password"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirm New Password"
+    },
+    "notif_change_passwd": {
+        "message": "Password changed successfully!"
+    },
+    "notif_set_passwd": {
+        "message": "Password has been set!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Incorrect password!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Passwords do not match!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Old password is incorrect!"
+    },
+    "notif_enter_passwd": {
+        "message": "Enter your password to unlock!"
+    },
+    "btn_unlock": {
+        "message": "UNLOCK"
+    },
+    "btn_save": {
+        "message": "SAVE"
+    },
+    "link_review": {
+        "message": "Review"
+    },
+    "link_source": {
+        "message": "Open Source"
+    }
+}

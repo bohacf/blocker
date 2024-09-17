@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Zaklepanje brskalnika"
+    },
+    "ext_des": {
+        "message": "Povečajte varnost svojega brskalnika z zaščito z geslom ob zagonu in funkcijo zaklepanja z enim klikom, da preprečite nepooblaščen dostop."
+    },
+    "ext_title": {
+        "message": "Kliknite, da zaprete vsa okna in zaklenete brskalnik!"
+    },
+    "title_locked": {
+        "message": "Brskalnik zaklenjen!"
+    },
+    "title_unlock": {
+        "message": "Odkleni brskalnik"
+    },
+    "title_change_passwd": {
+        "message": "Spremeni geslo"
+    },
+    "title_set_passwd": {
+        "message": "Nastavi geslo"
+    },
+    "title_last_passwd": {
+        "message": "Staro geslo"
+    },
+    "title_new_passwd": {
+        "message": "Novo geslo"
+    },
+    "title_new_check_passwd": {
+        "message": "Potrdi novo geslo"
+    },
+    "notif_change_passwd": {
+        "message": "Geslo je bilo uspešno spremenjeno!"
+    },
+    "notif_set_passwd": {
+        "message": "Geslo je bilo nastavljeno!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Napačno geslo!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Gesla se ne ujemata!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Staro geslo je napačno!"
+    },
+    "notif_enter_passwd": {
+        "message": "Vnesite svoje geslo za odklepanje!"
+    },
+    "btn_unlock": {
+        "message": "ODKLENI"
+    },
+    "btn_save": {
+        "message": "SHRANI"
+    },
+    "link_review": {
+        "message": "Ocena"
+    },
+    "link_source": {
+        "message": "Odprtokodni"
+    }
+}

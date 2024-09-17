@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "பிரௌசர் லாக்கர்"
+    },
+    "ext_des": {
+        "message": "உங்கள் ப்ரௌசரின் பாதுகாப்பை ஸ்டார்ட்-அப் மீது கடவுச்சொல் பாதுகாப்பு மற்றும் ஒற்றை-கிளிக் லாக் அம்சத்துடன் அதிகரிக்கவும், அனுமதியில்லாத அணுகலைத் தவிர்க்கவும்."
+    },
+    "ext_title": {
+        "message": "எல்லா ஜன்னல்களையும் மூடிக் கொண்டு ப்ரௌசரை லாக் செய்ய கிளிக் செய்யவும்!"
+    },
+    "title_locked": {
+        "message": "பிரௌசர் லாக் செய்யப்பட்டது!"
+    },
+    "title_unlock": {
+        "message": "பிரௌசரை திறக்கவும்"
+    },
+    "title_change_passwd": {
+        "message": "கடவுச்சொல்லை மாற்றவும்"
+    },
+    "title_set_passwd": {
+        "message": "கடவுச்சொல்லை அமைக்கவும்"
+    },
+    "title_last_passwd": {
+        "message": "முந்தைய கடவுச்சொல்"
+    },
+    "title_new_passwd": {
+        "message": "புதிய கடவுச்சொல்"
+    },
+    "title_new_check_passwd": {
+        "message": "புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+    },
+    "notif_change_passwd": {
+        "message": "கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது!"
+    },
+    "notif_set_passwd": {
+        "message": "கடவுச்சொல் அமைக்கப்பட்டுள்ளது!"
+    },
+    "notif_wrong_passwd": {
+        "message": "தவறான கடவுச்சொல்!"
+    },
+    "notif_not_match_passwd": {
+        "message": "கடவுச்சொல்கள் பொருந்தவில்லை!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "முந்தைய கடவுச்சொல் தவறானது!"
+    },
+    "notif_enter_passwd": {
+        "message": "திறக்க உங்கள் கடவுச்சொல்லை உள்ளிடவும்!"
+    },
+    "btn_unlock": {
+        "message": "திறக்கவும்"
+    },
+    "btn_save": {
+        "message": "சேமிக்கவும்"
+    },
+    "link_review": {
+        "message": "மதிப்பீடு"
+    },
+    "link_source": {
+        "message": "ஓப்பன் சோமர்ஸ்"
+    }
+}

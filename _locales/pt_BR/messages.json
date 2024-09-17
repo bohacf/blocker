@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Bloqueador de Navegador"
+    },
+    "ext_des": {
+        "message": "Aumente a segurança do seu navegador com proteção por senha na inicialização e um recurso de bloqueio com um clique para evitar acesso não autorizado."
+    },
+    "ext_title": {
+        "message": "Clique para fechar todas as janelas e bloquear o navegador!"
+    },
+    "title_locked": {
+        "message": "Navegador Bloqueado!"
+    },
+    "title_unlock": {
+        "message": "Desbloquear Navegador"
+    },
+    "title_change_passwd": {
+        "message": "Mudar Senha"
+    },
+    "title_set_passwd": {
+        "message": "Definir Senha"
+    },
+    "title_last_passwd": {
+        "message": "Senha Antiga"
+    },
+    "title_new_passwd": {
+        "message": "Nova Senha"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmar Nova Senha"
+    },
+    "notif_change_passwd": {
+        "message": "Senha alterada com sucesso!"
+    },
+    "notif_set_passwd": {
+        "message": "Senha foi definida!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Senha incorreta!"
+    },
+    "notif_not_match_passwd": {
+        "message": "As senhas não correspondem!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Senha antiga incorreta!"
+    },
+    "notif_enter_passwd": {
+        "message": "Digite sua senha para desbloquear!"
+    },
+    "btn_unlock": {
+        "message": "DESBLOQUEAR"
+    },
+    "btn_save": {
+        "message": "SALVAR"
+    },
+    "link_review": {
+        "message": "Revisão"
+    },
+    "link_source": {
+        "message": "Código Fonte"
+    }
+}

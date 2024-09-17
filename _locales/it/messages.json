@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Blocco Browser"
+    },
+    "ext_des": {
+        "message": "Aumenta la sicurezza del tuo browser con la protezione tramite password all'avvio e una funzione di blocco con un clic per prevenire accessi non autorizzati."
+    },
+    "ext_title":{
+        "message": "Clicca per chiudere tutte le finestre e bloccare il browser!"
+    },
+    "title_locked": {
+        "message": "Browser Bloccato!"
+    },
+    "title_unlock": {
+        "message": "Sblocca Browser"
+    },
+    "title_change_passwd": {
+        "message": "Cambia Password"
+    },
+    "title_set_passwd": {
+        "message": "Imposta Password"
+    },
+    "title_last_passwd": {
+        "message": "Password Vecchia"
+    },
+    "title_new_passwd": {
+        "message": "Nuova Password"
+    },
+    "title_new_check_passwd": {
+        "message": "Conferma Nuova Password"
+    },
+    "notif_change_passwd": {
+        "message": "Password cambiata con successo!"
+    },
+    "notif_set_passwd": {
+        "message": "Password impostata!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Password errata!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Le password non coincidono!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "La password vecchia è errata!"
+    },
+    "notif_enter_passwd": {
+        "message": "Inserisci la tua password per sbloccare!"
+    },
+    "btn_unlock": {
+        "message": "SBLOCCA"
+    },
+    "btn_save": {
+        "message": "SALVA"
+    },
+    "link_review": {
+        "message": "Recensione"
+    },
+    "link_source": {
+        "message": "Codice Sorgente"
+    }
+}

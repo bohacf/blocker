@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "የአስተዳደር ተጠባባቂ"
+    },
+    "ext_des": {
+        "message": "በመነሻ ላይ የየእርስዎን የይለፍ ቃል መስጠትና በአንድ ቁልፍ እንደገና መግባት ባለው ተጠባባቂ ይጠቀሙ።"
+    },
+    "ext_title":{
+        "message": "እባክዎን ሁሉንም ትኩረት እና በተደጋጋሚ ማስተናገድ ይጫኑ!"
+    },
+    "title_locked": {
+        "message": "ተጠባባቂ ተጠባባቂ አይደለም!"
+    },
+    "title_unlock": {
+        "message": "ይግቡ"
+    },
+    "title_change_passwd": {
+        "message": "የይለፍ ቃል ይለውጡ"
+    },
+    "title_set_passwd": {
+        "message": "የይለፍ ቃል ይጠቀሙ"
+    },
+    "title_last_passwd": {
+        "message": "የአስተዳደር ይለፍ ቃል"
+    },
+    "title_new_passwd": {
+        "message": "አዲስ የይለፍ ቃል"
+    },
+    "title_new_check_passwd": {
+        "message": "አዲስ የይለፍ ቃል ይከታተሉ"
+    },
+    "notif_change_passwd": {
+        "message": "የይለፍ ቃል በስኬት ተለውጧል!"
+    },
+    "notif_set_passwd": {
+        "message": "የይለፍ ቃል ተሰጠ!"
+    },
+    "notif_wrong_passwd": {
+        "message": "የይለፍ ቃል ይቅርታ አልተሟላም!"
+    },
+    "notif_not_match_passwd": {
+        "message": "የይለፍ ቃል አይገባም!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "የአስተዳደር ይለፍ ቃል ይቅርታ አልተሟላም!"
+    },
+    "notif_enter_passwd": {
+        "message": "እባክዎን የይለፍ ቃል ይግቡ!"
+    },
+    "btn_unlock": {
+        "message": "ክፍት"
+    },
+    "btn_save": {
+        "message": "አስተያየት"
+    },
+    "link_review": {
+        "message": "ግምገማ"
+    },
+    "link_source": {
+        "message": "ክፍት ምንጭ"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Blokada Przeglądarki"
+    },
+    "ext_des": {
+        "message": "Zwiększ bezpieczeństwo swojej przeglądarki dzięki ochronie hasłem przy uruchamianiu i funkcji blokady jednym kliknięciem, aby zapobiec nieautoryzowanemu dostępowi."
+    },
+    "ext_title": {
+        "message": "Kliknij, aby zamknąć wszystkie okna i zablokować przeglądarkę!"
+    },
+    "title_locked": {
+        "message": "Przeglądarka Zablokowana!"
+    },
+    "title_unlock": {
+        "message": "Odblokuj Przeglądarkę"
+    },
+    "title_change_passwd": {
+        "message": "Zmień Hasło"
+    },
+    "title_set_passwd": {
+        "message": "Ustaw Hasło"
+    },
+    "title_last_passwd": {
+        "message": "Stare Hasło"
+    },
+    "title_new_passwd": {
+        "message": "Nowe Hasło"
+    },
+    "title_new_check_passwd": {
+        "message": "Potwierdź Nowe Hasło"
+    },
+    "notif_change_passwd": {
+        "message": "Hasło zostało zmienione pomyślnie!"
+    },
+    "notif_set_passwd": {
+        "message": "Hasło zostało ustawione!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Niepoprawne hasło!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Hasła nie pasują do siebie!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Stare hasło jest niepoprawne!"
+    },
+    "notif_enter_passwd": {
+        "message": "Wprowadź swoje hasło, aby odblokować!"
+    },
+    "btn_unlock": {
+        "message": "ODBLOKUJ"
+    },
+    "btn_save": {
+        "message": "ZAPISZ"
+    },
+    "link_review": {
+        "message": "Recenzja"
+    },
+    "link_source": {
+        "message": "Kod Źródłowy"
+    }
+}

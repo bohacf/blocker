@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ബ്രൗസർ ലോക്കർ"
+    },
+    "ext_des": {
+        "message": "ആറായിരിക്കും എപ്പോൾ വരെയുള്ള അഡ്മിനിസ്ട്രേറ്റീവ് വെളിച്ചം തികയ്ക്കായി പാസ്‌വേഡും ഒരു ക്ലിക്കിൽ ലോക്ക് ഫീച്ചറും ഉപയോഗിച്ച് നിങ്ങളുടെ ബ്രൗസർ സുരക്ഷ കൂട്ടിച്ചേർക്കുക."
+    },
+    "ext_title":{
+        "message": "എല്ലാ വിൻഡോകളും അടയ്ക്കാൻ ക്ലിക്ക് ചെയ്യുക, ബ്രൗസർ ലോക്ക് ചെയ്യുക!"
+    },
+    "title_locked": {
+        "message": "ബ്രൗസർ ലോക്കായിരിക്കുന്നു!"
+    },
+    "title_unlock": {
+        "message": "ബ്രൗസർ അൺലോക്ക് ചെയ്യുക"
+    },
+    "title_change_passwd": {
+        "message": "പാസ്‌വേഡ് മാറ്റുക"
+    },
+    "title_set_passwd": {
+        "message": "പാസ്‌വേഡ് സജ്ജമാക്കുക"
+    },
+    "title_last_passwd": {
+        "message": "മുമ്പത്തെ പാസ്‌വേഡ്"
+    },
+    "title_new_passwd": {
+        "message": "പുതിയ പാസ്‌വേഡ്"
+    },
+    "title_new_check_passwd": {
+        "message": "പുതിയ പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക"
+    },
+    "notif_change_passwd": {
+        "message": "പാസ്‌വേഡ് വിജയകരമായി മാറ്റി!"
+    },
+    "notif_set_passwd": {
+        "message": "പാസ്‌വേഡ് സജ്ജമാക്കിയിരിക്കുന്നു!"
+    },
+    "notif_wrong_passwd": {
+        "message": "തെറ്റായ പാസ്‌വേഡ്!"
+    },
+    "notif_not_match_passwd": {
+        "message": "പാസ്‌വേഡുകൾ പൊരുത്തപ്പെടുന്നില്ല!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "മുമ്പത്തെ പാസ്‌വേഡ് തെറ്റായിരിക്കുന്നു!"
+    },
+    "notif_enter_passwd": {
+        "message": "അൺലോക്ക് ചെയ്യാൻ നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക!"
+    },
+    "btn_unlock": {
+        "message": "അൺലോക്ക് ചെയ്യുക"
+    },
+    "btn_save": {
+        "message": "സേവ്"
+    },
+    "link_review": {
+        "message": "അവലോകനം"
+    },
+    "link_source": {
+        "message": "തുറന്ന കോഡ്"
+    }
+}

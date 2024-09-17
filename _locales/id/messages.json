@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Pengunci Browser"
+    },
+    "ext_des": {
+        "message": "Tingkatkan keamanan browser Anda dengan perlindungan kata sandi saat memulai dan fitur kunci satu klik untuk mencegah akses tidak sah."
+    },
+    "ext_title":{
+        "message": "Klik untuk menutup semua jendela dan mengunci browser!"
+    },
+    "title_locked": {
+        "message": "Browser Terkunci!"
+    },
+    "title_unlock": {
+        "message": "Buka Kunci Browser"
+    },
+    "title_change_passwd": {
+        "message": "Ganti Kata Sandi"
+    },
+    "title_set_passwd": {
+        "message": "Atur Kata Sandi"
+    },
+    "title_last_passwd": {
+        "message": "Kata Sandi Lama"
+    },
+    "title_new_passwd": {
+        "message": "Kata Sandi Baru"
+    },
+    "title_new_check_passwd": {
+        "message": "Konfirmasi Kata Sandi Baru"
+    },
+    "notif_change_passwd": {
+        "message": "Kata sandi berhasil diubah!"
+    },
+    "notif_set_passwd": {
+        "message": "Kata sandi telah diatur!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Kata sandi salah!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Kata sandi tidak cocok!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Kata sandi lama salah!"
+    },
+    "notif_enter_passwd": {
+        "message": "Masukkan kata sandi Anda untuk membuka kunci!"
+    },
+    "btn_unlock": {
+        "message": "BUKA KUNCI"
+    },
+    "btn_save": {
+        "message": "SIMPAN"
+    },
+    "link_review": {
+        "message": "Ulasan"
+    },
+    "link_source": {
+        "message": "Sumber Terbuka"
+    }
+}

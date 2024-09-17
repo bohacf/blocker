@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "נעילת דפדפן"
+    },
+    "ext_des": {
+        "message": "שפר את האבטחה של הדפדפן שלך עם הגנה בסיסמה בהפעלה ופיצ'ר נעילה בלחיצה אחת למניעת גישה לא מורשית."
+    },
+    "ext_title": {
+        "message": "לחץ לסגור את כל החלונות ולנעול את הדפדפן!"
+    },
+    "title_locked": {
+        "message": "הדפדפן נעול!"
+    },
+    "title_unlock": {
+        "message": "פתח את הדפדפן"
+    },
+    "title_change_passwd": {
+        "message": "שנה סיסמה"
+    },
+    "title_set_passwd": {
+        "message": "הגדר סיסמה"
+    },
+    "title_last_passwd": {
+        "message": "סיסמה ישנה"
+    },
+    "title_new_passwd": {
+        "message": "סיסמה חדשה"
+    },
+    "title_new_check_passwd": {
+        "message": "אשר סיסמה חדשה"
+    },
+    "notif_change_passwd": {
+        "message": "הסיסמה שונתה בהצלחה!"
+    },
+    "notif_set_passwd": {
+        "message": "הסיסמה הוגדרה!"
+    },
+    "notif_wrong_passwd": {
+        "message": "סיסמה שגויה!"
+    },
+    "notif_not_match_passwd": {
+        "message": "הסיסמאות אינן תואמות!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "הסיסמה הישנה שגויה!"
+    },
+    "notif_enter_passwd": {
+        "message": "הזן את הסיסמה שלך לפתיחה!"
+    },
+    "btn_unlock": {
+        "message": "פתח"
+    },
+    "btn_save": {
+        "message": "שמור"
+    },
+    "link_review": {
+        "message": "סקירה"
+    },
+    "link_source": {
+        "message": "קוד פתוח"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Browser Vergrendelaar"
+    },
+    "ext_des": {
+        "message": "Verhoog de beveiliging van je browser met wachtwoordbeveiliging bij het opstarten en een één-klik vergrendelingsfunctie om ongeautoriseerde toegang te voorkomen."
+    },
+    "ext_title": {
+        "message": "Klik om alle vensters te sluiten en de browser te vergrendelen!"
+    },
+    "title_locked": {
+        "message": "Browser Vergrendeld!"
+    },
+    "title_unlock": {
+        "message": "Browser Ontgrendelen"
+    },
+    "title_change_passwd": {
+        "message": "Wachtwoord Wijzigen"
+    },
+    "title_set_passwd": {
+        "message": "Wachtwoord Instellen"
+    },
+    "title_last_passwd": {
+        "message": "Oud Wachtwoord"
+    },
+    "title_new_passwd": {
+        "message": "Nieuw Wachtwoord"
+    },
+    "title_new_check_passwd": {
+        "message": "Bevestig Nieuw Wachtwoord"
+    },
+    "notif_change_passwd": {
+        "message": "Wachtwoord succesvol gewijzigd!"
+    },
+    "notif_set_passwd": {
+        "message": "Wachtwoord is ingesteld!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Onjuist wachtwoord!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Wachtwoorden komen niet overeen!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Oud wachtwoord is onjuist!"
+    },
+    "notif_enter_passwd": {
+        "message": "Voer je wachtwoord in om te ontgrendelen!"
+    },
+    "btn_unlock": {
+        "message": "ONTGRENDELEN"
+    },
+    "btn_save": {
+        "message": "OPSLAAN"
+    },
+    "link_review": {
+        "message": "Beoordeling"
+    },
+    "link_source": {
+        "message": "Open Source"
+    }
+}

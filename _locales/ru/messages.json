@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Блокировка браузера"
+    },
+    "ext_des": {
+        "message": "Улучшите безопасность вашего браузера с помощью защиты паролем при запуске и функции блокировки в один клик для предотвращения несанкционированного доступа."
+    },
+    "ext_title": {
+        "message": "Нажмите, чтобы закрыть все окна и заблокировать браузер!"
+    },
+    "title_locked": {
+        "message": "Браузер заблокирован!"
+    },
+    "title_unlock": {
+        "message": "Разблокировать браузер"
+    },
+    "title_change_passwd": {
+        "message": "Сменить пароль"
+    },
+    "title_set_passwd": {
+        "message": "Установить пароль"
+    },
+    "title_last_passwd": {
+        "message": "Старый пароль"
+    },
+    "title_new_passwd": {
+        "message": "Новый пароль"
+    },
+    "title_new_check_passwd": {
+        "message": "Подтвердите новый пароль"
+    },
+    "notif_change_passwd": {
+        "message": "Пароль успешно изменен!"
+    },
+    "notif_set_passwd": {
+        "message": "Пароль установлен!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Неправильный пароль!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Пароли не совпадают!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Старый пароль неверен!"
+    },
+    "notif_enter_passwd": {
+        "message": "Введите ваш пароль для разблокировки!"
+    },
+    "btn_unlock": {
+        "message": "РАЗБЛОКИРОВАТЬ"
+    },
+    "btn_save": {
+        "message": "СОХРАНИТЬ"
+    },
+    "link_review": {
+        "message": "Обзор"
+    },
+    "link_source": {
+        "message": "Открытый исходный код"
+    }
+}

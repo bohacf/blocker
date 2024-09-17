@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Pārlūkprogrammas bloķētājs"
+    },
+    "ext_des": {
+        "message": "Palieliniet pārlūkprogrammas drošību ar paroles aizsardzību, startējot un ar vienu klikšķi bloķējot, lai novērstu nepilnvarētu piekļuvi."
+    },
+    "ext_title":{
+        "message": "Noklikšķiniet, lai aizvērtu visus logus un bloķētu pārlūkprogrammu!"
+    },
+    "title_locked": {
+        "message": "Pārlūkprogramma bloķēta!"
+    },
+    "title_unlock": {
+        "message": "Atbloķēt pārlūkprogrammu"
+    },
+    "title_change_passwd": {
+        "message": "Mainīt paroli"
+    },
+    "title_set_passwd": {
+        "message": "Iestatīt paroli"
+    },
+    "title_last_passwd": {
+        "message": "Vecā parole"
+    },
+    "title_new_passwd": {
+        "message": "Jauna parole"
+    },
+    "title_new_check_passwd": {
+        "message": "Apstipriniet jauno paroli"
+    },
+    "notif_change_passwd": {
+        "message": "Parole veiksmīgi mainīta!"
+    },
+    "notif_set_passwd": {
+        "message": "Parole ir iestatīta!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Nepareiza parole!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Paroles nesakrīt!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Vecā parole ir nepareiza!"
+    },
+    "notif_enter_passwd": {
+        "message": "Ievadiet savu paroli, lai atbloķētu!"
+    },
+    "btn_unlock": {
+        "message": "ATBLOĶĒT"
+    },
+    "btn_save": {
+        "message": "SAGLABĀT"
+    },
+    "link_review": {
+        "message": "Atsauksmes"
+    },
+    "link_source": {
+        "message": "Atvērtā koda"
+    }
+}

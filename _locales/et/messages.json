@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Brauseri Lukustaja"
+    },
+    "ext_des": {
+        "message": "Tõsta oma brauseri turvalisust käivitamisel paroolikaitse ja üheklõpsuga lukustamisfunktsiooniga, et vältida volitamata juurdepääsu."
+    },
+    "ext_title":{
+        "message": "Klõpsake, et sulgeda kõik aknad ja lukustada brauser!"
+    },
+    "title_locked": {
+        "message": "Brauser Lukustatud!"
+    },
+    "title_unlock": {
+        "message": "Ava Brauser"
+    },
+    "title_change_passwd": {
+        "message": "Muuda Parool"
+    },
+    "title_set_passwd": {
+        "message": "Sea Parool"
+    },
+    "title_last_passwd": {
+        "message": "Vana Parool"
+    },
+    "title_new_passwd": {
+        "message": "Uus Parool"
+    },
+    "title_new_check_passwd": {
+        "message": "Kinnita Uus Parool"
+    },
+    "notif_change_passwd": {
+        "message": "Parool muudeti edukalt!"
+    },
+    "notif_set_passwd": {
+        "message": "Parool on seatud!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Vale parool!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Paroolid ei ühti!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Vana parool on vale!"
+    },
+    "notif_enter_passwd": {
+        "message": "Sisesta oma parool, et avada!"
+    },
+    "btn_unlock": {
+        "message": "AVA"
+    },
+    "btn_save": {
+        "message": "SALVESTA"
+    },
+    "link_review": {
+        "message": "Hinnang"
+    },
+    "link_source": {
+        "message": "Avatud Kood"
+    }
+}

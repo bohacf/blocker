@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ಬ್ರೌಸರ್ ಲಾಕ್"
+    },
+    "ext_des": {
+        "message": "ಪ್ರಾರಂಭದಲ್ಲಿ ಪಾಸ್‌ವರ್ಡ್ ರಕ್ಷಣೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ಅನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಿ ಮತ್ತು ಅಧಿಕಾರವಿಲ್ಲದ ಪ್ರವೇಶವನ್ನು ತಡೆಯಲು ಒನ್-ಕ್ಲಿಕ್ ಲಾಕ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಒದಗಿಸುತ್ತದೆ."
+    },
+    "ext_title": {
+        "message": "ಎಲ್ಲಾ ಕಿಟಕಿಗಳನ್ನು ಬಂದು ಬ್ರೌಸರ್ ಅನ್ನು ಲಾಕ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ!"
+    },
+    "title_locked": {
+        "message": "ಬ್ರೌಸರ್ ಲಾಕ್ ಮಾಡಲಾಗಿದೆ!"
+    },
+    "title_unlock": {
+        "message": "ಬ್ರೌಸರ್ ಅನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ"
+    },
+    "title_change_passwd": {
+        "message": "ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ"
+    },
+    "title_set_passwd": {
+        "message": "ಪಾಸ್‌ವರ್ಡ್ ಹೊಂದಿಸಿ"
+    },
+    "title_last_passwd": {
+        "message": "ಹಳೆಯ ಪಾಸ್‌ವರ್ಡ್"
+    },
+    "title_new_passwd": {
+        "message": "ಹೆಸರು ಪಾಸ್‌ವರ್ಡ್"
+    },
+    "title_new_check_passwd": {
+        "message": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ"
+    },
+    "notif_change_passwd": {
+        "message": "ಪಾಸ್‌ವರ್ಡ್ ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ!"
+    },
+    "notif_set_passwd": {
+        "message": "ಪಾಸ್‌ವರ್ಡ್ ಹೊಂದಿಸಲಾಗಿದೆ!"
+    },
+    "notif_wrong_passwd": {
+        "message": "ತಪ್ಪಾದ ಪಾಸ್‌ವರ್ಡ್!"
+    },
+    "notif_not_match_passwd": {
+        "message": "ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಹೊಂದಿಸುವುದಿಲ್ಲ!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "ಹಳೆಯ ಪಾಸ್‌ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ!"
+    },
+    "notif_enter_passwd": {
+        "message": "ಅನ್ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ!"
+    },
+    "btn_unlock": {
+        "message": "ಅನ್ಲಾಕ್"
+    },
+    "btn_save": {
+        "message": "ಉಳಿಸಿ"
+    },
+    "link_review": {
+        "message": "ಮೂಲ್ಯಮಾಪನ"
+    },
+    "link_source": {
+        "message": "ಮೂಲ ಕೋಡ್"
+    }
+}

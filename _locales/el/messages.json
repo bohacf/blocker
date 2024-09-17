@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Κλείδωμα Περιηγητή"
+    },
+    "ext_des": {
+        "message": "Ενισχύστε την ασφάλεια του περιηγητή σας με προστασία μέσω κωδικού κατά την εκκίνηση και μια δυνατότητα κλειδώματος με ένα κλικ για να αποτρέψετε την μη εξουσιοδοτημένη πρόσβαση."
+    },
+    "ext_title":{
+        "message": "Κάντε κλικ για να κλείσετε όλα τα παράθυρα και να κλειδώσετε τον περιηγητή!"
+    },
+    "title_locked": {
+        "message": "Ο Περιηγητής Εχει Κλειδώσει!"
+    },
+    "title_unlock": {
+        "message": "Ξεκλείδωμα Περιηγητή"
+    },
+    "title_change_passwd": {
+        "message": "Αλλαγή Κωδικού"
+    },
+    "title_set_passwd": {
+        "message": "Ρύθμιση Κωδικού"
+    },
+    "title_last_passwd": {
+        "message": "Παλαιός Κωδικός"
+    },
+    "title_new_passwd": {
+        "message": "Νέος Κωδικός"
+    },
+    "title_new_check_passwd": {
+        "message": "Επιβεβαίωση Νέου Κωδικού"
+    },
+    "notif_change_passwd": {
+        "message": "Ο κωδικός άλλαξε επιτυχώς!"
+    },
+    "notif_set_passwd": {
+        "message": "Ο κωδικός έχει ρυθμιστεί!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Λάθος κωδικός!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Οι κωδικοί δεν ταιριάζουν!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Ο παλαιός κωδικός είναι λάθος!"
+    },
+    "notif_enter_passwd": {
+        "message": "Εισάγετε τον κωδικό σας για να ξεκλειδώσετε!"
+    },
+    "btn_unlock": {
+        "message": "ΞΕΚΛΕΙΔΩΜΑ"
+    },
+    "btn_save": {
+        "message": "ΑΠΟΘΗΚΕΥΣΗ"
+    },
+    "link_review": {
+        "message": "Αξιολόγηση"
+    },
+    "link_source": {
+        "message": "Ανοιχτός Κώδικας"
+    }
+}

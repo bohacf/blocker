@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Bloqueador de Navegador"
+    },
+    "ext_des": {
+        "message": "Mejora la seguridad de tu navegador con protección por contraseña al inicio y una función de bloqueo con un solo clic para evitar accesos no autorizados."
+    },
+    "ext_title": {
+        "message": "¡Haz clic para cerrar todas las ventanas y bloquear el navegador!"
+    },
+    "title_locked": {
+        "message": "¡Navegador Bloqueado!"
+    },
+    "title_unlock": {
+        "message": "Desbloquear Navegador"
+    },
+    "title_change_passwd": {
+        "message": "Cambiar Contraseña"
+    },
+    "title_set_passwd": {
+        "message": "Establecer Contraseña"
+    },
+    "title_last_passwd": {
+        "message": "Contraseña Antigua"
+    },
+    "title_new_passwd": {
+        "message": "Nueva Contraseña"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmar Nueva Contraseña"
+    },
+    "notif_change_passwd": {
+        "message": "¡Contraseña cambiada exitosamente!"
+    },
+    "notif_set_passwd": {
+        "message": "¡Contraseña establecida!"
+    },
+    "notif_wrong_passwd": {
+        "message": "¡Contraseña incorrecta!"
+    },
+    "notif_not_match_passwd": {
+        "message": "¡Las contraseñas no coinciden!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "¡La contraseña antigua es incorrecta!"
+    },
+    "notif_enter_passwd": {
+        "message": "¡Introduce tu contraseña para desbloquear!"
+    },
+    "btn_unlock": {
+        "message": "DESBLOQUEAR"
+    },
+    "btn_save": {
+        "message": "GUARDAR"
+    },
+    "link_review": {
+        "message": "Reseña"
+    },
+    "link_source": {
+        "message": "Código Abierto"
+    }
+}

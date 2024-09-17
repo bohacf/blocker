@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ब्राउज़र लॉक"
+    },
+    "ext_des": {
+        "message": "स्टार्टअप पर पासवर्ड सुरक्षा और अनधिकृत पहुँच को रोकने के लिए एक-क्लिक लॉक फीचर के साथ अपने ब्राउज़र की सुरक्षा बढ़ाएँ।"
+    },
+    "ext_title": {
+        "message": "सभी विंडो को बंद करने और ब्राउज़र को लॉक करने के लिए क्लिक करें!"
+    },
+    "title_locked": {
+        "message": "ब्राउज़र लॉक हो गया है!"
+    },
+    "title_unlock": {
+        "message": "ब्राउज़र अनलॉक करें"
+    },
+    "title_change_passwd": {
+        "message": "पासवर्ड बदलें"
+    },
+    "title_set_passwd": {
+        "message": "पासवर्ड सेट करें"
+    },
+    "title_last_passwd": {
+        "message": "पुराना पासवर्ड"
+    },
+    "title_new_passwd": {
+        "message": "नया पासवर्ड"
+    },
+    "title_new_check_passwd": {
+        "message": "नए पासवर्ड की पुष्टि करें"
+    },
+    "notif_change_passwd": {
+        "message": "पासवर्ड सफलतापूर्वक बदल गया!"
+    },
+    "notif_set_passwd": {
+        "message": "पासवर्ड सेट कर दिया गया है!"
+    },
+    "notif_wrong_passwd": {
+        "message": "गलत पासवर्ड!"
+    },
+    "notif_not_match_passwd": {
+        "message": "पासवर्ड मेल नहीं खाते!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "पुराना पासवर्ड गलत है!"
+    },
+    "notif_enter_passwd": {
+        "message": "अनलॉक करने के लिए अपना पासवर्ड दर्ज करें!"
+    },
+    "btn_unlock": {
+        "message": "अनलॉक करें"
+    },
+    "btn_save": {
+        "message": "सहेजें"
+    },
+    "link_review": {
+        "message": "समीक्षा"
+    },
+    "link_source": {
+        "message": "ओपन सॉर्स"
+    }
+}

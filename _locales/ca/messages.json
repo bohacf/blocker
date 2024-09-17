@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Bloquejador de Navegador"
+    },
+    "ext_des": {
+        "message": "Millora la seguretat del teu navegador amb protecció per contrasenya a l'inici i una funció de bloqueig amb un sol clic per evitar l'accés no autoritzat."
+    },
+    "ext_title":{
+        "message": "Feu clic per tancar totes les finestres i bloquejar el navegador!"
+    },
+    "title_locked": {
+        "message": "Navegador Bloquejat!"
+    },
+    "title_unlock": {
+        "message": "Desbloquejar Navegador"
+    },
+    "title_change_passwd": {
+        "message": "Canviar Contrasenya"
+    },
+    "title_set_passwd": {
+        "message": "Establir Contrasenya"
+    },
+    "title_last_passwd": {
+        "message": "Contrasenya Antiga"
+    },
+    "title_new_passwd": {
+        "message": "Contrasenya Nova"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmar Contrasenya Nova"
+    },
+    "notif_change_passwd": {
+        "message": "Contrasenya canviada amb èxit!"
+    },
+    "notif_set_passwd": {
+        "message": "Contrasenya establerta!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Contrasenya incorrecta!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Les contrasenyes no coincideixen!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Contrasenya antiga incorrecta!"
+    },
+    "notif_enter_passwd": {
+        "message": "Introdueix la teva contrasenya per desbloquejar!"
+    },
+    "btn_unlock": {
+        "message": "DESBLOQUEJAR"
+    },
+    "btn_save": {
+        "message": "DESAR"
+    },
+    "link_review": {
+        "message": "Revisió"
+    },
+    "link_source": {
+        "message": "Codi Font"
+    }
+}

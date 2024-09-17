@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Блокувальник Браузера"
+    },
+    "ext_des": {
+        "message": "Зміцніть безпеку вашого браузера за допомогою паролем на початку і функції блокування в один клік, щоб запобігти несанкціонованому доступу."
+    },
+    "ext_title": {
+        "message": "Натисніть, щоб закрити всі вікна та заблокувати браузер!"
+    },
+    "title_locked": {
+        "message": "Браузер Заблоковано!"
+    },
+    "title_unlock": {
+        "message": "Розблокувати Браузер"
+    },
+    "title_change_passwd": {
+        "message": "Змінити Пароль"
+    },
+    "title_set_passwd": {
+        "message": "Встановити Пароль"
+    },
+    "title_last_passwd": {
+        "message": "Старий Пароль"
+    },
+    "title_new_passwd": {
+        "message": "Новий Пароль"
+    },
+    "title_new_check_passwd": {
+        "message": "Підтвердити Новий Пароль"
+    },
+    "notif_change_passwd": {
+        "message": "Пароль успішно змінено!"
+    },
+    "notif_set_passwd": {
+        "message": "Пароль встановлено!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Невірний пароль!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Паролі не збігаються!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Старий пароль невірний!"
+    },
+    "notif_enter_passwd": {
+        "message": "Введіть свій пароль, щоб розблокувати!"
+    },
+    "btn_unlock": {
+        "message": "РОЗБЛОКУВАТИ"
+    },
+    "btn_save": {
+        "message": "ЗБЕРЕГТИ"
+    },
+    "link_review": {
+        "message": "Огляд"
+    },
+    "link_source": {
+        "message": "Відкритий Код"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Zamknutie prehliadača"
+    },
+    "ext_des": {
+        "message": "Zvýšte bezpečnosť svojho prehliadača pomocou ochrany heslom pri spustení a funkcie zamknutia jedným kliknutím na zabránenie neoprávnenému prístupu."
+    },
+    "ext_title": {
+        "message": "Kliknite na zatvorenie všetkých okien a zamknutie prehliadača!"
+    },
+    "title_locked": {
+        "message": "Prehliadač je zamknutý!"
+    },
+    "title_unlock": {
+        "message": "Odomknúť prehliadač"
+    },
+    "title_change_passwd": {
+        "message": "Zmeniť heslo"
+    },
+    "title_set_passwd": {
+        "message": "Nastaviť heslo"
+    },
+    "title_last_passwd": {
+        "message": "Staré heslo"
+    },
+    "title_new_passwd": {
+        "message": "Nové heslo"
+    },
+    "title_new_check_passwd": {
+        "message": "Potvrďte nové heslo"
+    },
+    "notif_change_passwd": {
+        "message": "Heslo bolo úspešne zmenené!"
+    },
+    "notif_set_passwd": {
+        "message": "Heslo bolo nastavené!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Nesprávne heslo!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Heslá sa nezhodujú!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Staré heslo je nesprávne!"
+    },
+    "notif_enter_passwd": {
+        "message": "Zadajte svoje heslo na odomknutie!"
+    },
+    "btn_unlock": {
+        "message": "ODOMKNÚŤ"
+    },
+    "btn_save": {
+        "message": "ULOŽIŤ"
+    },
+    "link_review": {
+        "message": "Recenzia"
+    },
+    "link_source": {
+        "message": "Open Source"
+    }
+}

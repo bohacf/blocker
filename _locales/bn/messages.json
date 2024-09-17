@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ব্রাউজার লকার"
+    },
+    "ext_des": {
+        "message": "স্টার্টআপে পাসওয়ার্ড সুরক্ষা এবং একটি-ক্লিক লক বৈশিষ্ট্য দিয়ে আপনার ব্রাউজারের নিরাপত্তা বৃদ্ধি করুন যা অস্বীকৃত অ্যাক্সেস প্রতিরোধ করে।"
+    },
+    "ext_title":{
+        "message": "সব উইন্ডো বন্ধ করতে এবং ব্রাউজার লক করতে ক্লিক করুন!"
+    },
+    "title_locked": {
+        "message": "ব্রাউজার লক করা হয়েছে!"
+    },
+    "title_unlock": {
+        "message": "ব্রাউজার আনলক করুন"
+    },
+    "title_change_passwd": {
+        "message": "পাসওয়ার্ড পরিবর্তন করুন"
+    },
+    "title_set_passwd": {
+        "message": "পাসওয়ার্ড সেট করুন"
+    },
+    "title_last_passwd": {
+        "message": "পুরনো পাসওয়ার্ড"
+    },
+    "title_new_passwd": {
+        "message": "নতুন পাসওয়ার্ড"
+    },
+    "title_new_check_passwd": {
+        "message": "নতুন পাসওয়ার্ড নিশ্চিত করুন"
+    },
+    "notif_change_passwd": {
+        "message": "পাসওয়ার্ড সফলভাবে পরিবর্তন হয়েছে!"
+    },
+    "notif_set_passwd": {
+        "message": "পাসওয়ার্ড সেট করা হয়েছে!"
+    },
+    "notif_wrong_passwd": {
+        "message": "পাসওয়ার্ড ভুল!"
+    },
+    "notif_not_match_passwd": {
+        "message": "পাসওয়ার্ড মেলাচ্ছে না!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "পুরনো পাসওয়ার্ড ভুল!"
+    },
+    "notif_enter_passwd": {
+        "message": "আনলক করতে আপনার পাসওয়ার্ড লিখুন!"
+    },
+    "btn_unlock": {
+        "message": "আনলক"
+    },
+    "btn_save": {
+        "message": "সংরক্ষণ করুন"
+    },
+    "link_review": {
+        "message": "পর্যালোচনা"
+    },
+    "link_source": {
+        "message": "ওপেন সোর্স"
+    }
+}

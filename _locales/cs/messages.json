@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Zámek prohlížeče"
+    },
+    "ext_des": {
+        "message": "Zvyšte bezpečnost svého prohlížeče ochranou heslem při spuštění a funkcí zamknutí jedním kliknutím, aby se zabránilo neoprávněnému přístupu."
+    },
+    "ext_title":{
+        "message": "Klikněte pro zavření všech oken a zamčení prohlížeče!"
+    },
+    "title_locked": {
+        "message": "Prohlížeč je zamčený!"
+    },
+    "title_unlock": {
+        "message": "Odemknout prohlížeč"
+    },
+    "title_change_passwd": {
+        "message": "Změnit heslo"
+    },
+    "title_set_passwd": {
+        "message": "Nastavit heslo"
+    },
+    "title_last_passwd": {
+        "message": "Staré heslo"
+    },
+    "title_new_passwd": {
+        "message": "Nové heslo"
+    },
+    "title_new_check_passwd": {
+        "message": "Potvrdit nové heslo"
+    },
+    "notif_change_passwd": {
+        "message": "Heslo bylo úspěšně změněno!"
+    },
+    "notif_set_passwd": {
+        "message": "Heslo bylo nastaveno!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Špatné heslo!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Hesla se neshodují!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Staré heslo je nesprávné!"
+    },
+    "notif_enter_passwd": {
+        "message": "Zadejte své heslo pro odemčení!"
+    },
+    "btn_unlock": {
+        "message": "ODEMNOUT"
+    },
+    "btn_save": {
+        "message": "ULOŽIT"
+    },
+    "link_review": {
+        "message": "Hodnotit"
+    },
+    "link_source": {
+        "message": "Open Source"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Zaključavanje preglednika"
+    },
+    "ext_des": {
+        "message": "Povećajte sigurnost preglednika s zaštitom lozinkom prilikom pokretanja i funkcijom zaključavanja jednim klikom kako biste spriječili neovlašteni pristup."
+    },
+    "ext_title": {
+        "message": "Kliknite za zatvaranje svih prozora i zaključavanje preglednika!"
+    },
+    "title_locked": {
+        "message": "Preglednik je zaključan!"
+    },
+    "title_unlock": {
+        "message": "Otključaj preglednik"
+    },
+    "title_change_passwd": {
+        "message": "Promijeni lozinku"
+    },
+    "title_set_passwd": {
+        "message": "Postavi lozinku"
+    },
+    "title_last_passwd": {
+        "message": "Stara lozinka"
+    },
+    "title_new_passwd": {
+        "message": "Nova lozinka"
+    },
+    "title_new_check_passwd": {
+        "message": "Potvrdi novu lozinku"
+    },
+    "notif_change_passwd": {
+        "message": "Lozinka je uspješno promijenjena!"
+    },
+    "notif_set_passwd": {
+        "message": "Lozinka je postavljena!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Neispravna lozinka!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Lozinke se ne podudaraju!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Stara lozinka je neispravna!"
+    },
+    "notif_enter_passwd": {
+        "message": "Unesite svoju lozinku za otključavanje!"
+    },
+    "btn_unlock": {
+        "message": "OTKLJUČAJ"
+    },
+    "btn_save": {
+        "message": "SAČUVAJ"
+    },
+    "link_review": {
+        "message": "Recenzija"
+    },
+    "link_source": {
+        "message": "Izvorni kod"
+    }
+}

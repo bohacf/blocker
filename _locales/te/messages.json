@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "బ్రౌజర్ లాకర్"
+    },
+    "ext_des": {
+        "message": "ప్రారంభంలో పాస్‌వర్డ్ రక్షణతో మరియు అనధికార అనుమతిని నిరోధించడానికి ఒక క్లిక్ లాక్ ఫీచర్‌తో మీ బ్రౌజర్ భద్రతను పెంచండి."
+    },
+    "ext_title": {
+        "message": "అన్ని విండోలను మూసి బ్రౌజర్‌ను లాక్ చేయడానికి క్లిక్ చేయండి!"
+    },
+    "title_locked": {
+        "message": "బ్రౌజర్ లాక్డ్!"
+    },
+    "title_unlock": {
+        "message": "బ్రౌజర్‌ని అన్లాక్ చేయండి"
+    },
+    "title_change_passwd": {
+        "message": "పాస్‌వర్డ్‌ను మార్చండి"
+    },
+    "title_set_passwd": {
+        "message": "పాస్‌వర్డ్‌ని సెట్ చేయండి"
+    },
+    "title_last_passwd": {
+        "message": "చెడు పాస్‌వర్డ్"
+    },
+    "title_new_passwd": {
+        "message": "కొత్త పాస్‌వర్డ్"
+    },
+    "title_new_check_passwd": {
+        "message": "కొత్త పాస్‌వర్డ్‌ని నిర్ధారించండి"
+    },
+    "notif_change_passwd": {
+        "message": "పాస్‌వర్డ్ విజయవంతంగా మారింది!"
+    },
+    "notif_set_passwd": {
+        "message": "పాస్‌వర్డ్ సెట్ చేయబడింది!"
+    },
+    "notif_wrong_passwd": {
+        "message": "తప్పు పాస్‌వర్డ్!"
+    },
+    "notif_not_match_passwd": {
+        "message": "పాస్‌వర్డ్లు సరిపోలవు!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "పాత పాస్‌వర్డ్ తప్పు!"
+    },
+    "notif_enter_passwd": {
+        "message": "అన్లాక్ చేయడానికి మీ పాస్‌వర్డ్‌ను ఎంటర్ చేయండి!"
+    },
+    "btn_unlock": {
+        "message": "అన్లాక్"
+    },
+    "btn_save": {
+        "message": "సేవ్"
+    },
+    "link_review": {
+        "message": "పరిశీలన"
+    },
+    "link_source": {
+        "message": "ఓపెన్ సోర్స్"
+    }
+}

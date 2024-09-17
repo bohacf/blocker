@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "瀏覽器鎖定器"
+    },
+    "ext_des": {
+        "message": "透過啟動時密碼保護和一鍵鎖定功能提升瀏覽器的安全性，以防止未經授權的訪問。"
+    },
+    "ext_title":{
+        "message": "點擊以關閉所有窗口並鎖定瀏覽器！"
+    },
+    "title_locked": {
+        "message": "瀏覽器已鎖定！"
+    },
+    "title_unlock": {
+        "message": "解鎖瀏覽器"
+    },
+    "title_change_passwd": {
+        "message": "更改密碼"
+    },
+    "title_set_passwd": {
+        "message": "設定密碼"
+    },
+    "title_last_passwd": {
+        "message": "舊密碼"
+    },
+    "title_new_passwd": {
+        "message": "新密碼"
+    },
+    "title_new_check_passwd": {
+        "message": "確認新密碼"
+    },
+    "notif_change_passwd": {
+        "message": "密碼更改成功！"
+    },
+    "notif_set_passwd": {
+        "message": "密碼已設定！"
+    },
+    "notif_wrong_passwd": {
+        "message": "密碼錯誤！"
+    },
+    "notif_not_match_passwd": {
+        "message": "密碼不匹配！"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "舊密碼不正確！"
+    },
+    "notif_enter_passwd": {
+        "message": "請輸入密碼以解鎖！"
+    },
+    "btn_unlock": {
+        "message": "解鎖"
+    },
+    "btn_save": {
+        "message": "保存"
+    },
+    "link_review": {
+        "message": "評價"
+    },
+    "link_source": {
+        "message": "開源"
+    }
+}

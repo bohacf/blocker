@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Браузърен ключ"
+    },
+    "ext_des": {
+        "message": "Подобрете сигурността на браузъра си с паролна защита при стартиране и функция за заключване с едно щракване, за да предотвратите неоторизиран достъп."
+    },
+    "ext_title":{
+        "message": "Щракнете, за да затворите всички прозорци и да заключите браузъра!"
+    },
+    "title_locked": {
+        "message": "Браузърът е заключен!"
+    },
+    "title_unlock": {
+        "message": "Отключване на браузъра"
+    },
+    "title_change_passwd": {
+        "message": "Смяна на паролата"
+    },
+    "title_set_passwd": {
+        "message": "Задаване на парола"
+    },
+    "title_last_passwd": {
+        "message": "Стара парола"
+    },
+    "title_new_passwd": {
+        "message": "Нова парола"
+    },
+    "title_new_check_passwd": {
+        "message": "Потвърдете новата парола"
+    },
+    "notif_change_passwd": {
+        "message": "Паролата беше сменена успешно!"
+    },
+    "notif_set_passwd": {
+        "message": "Паролата е зададена!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Невалидна парола!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Паролите не съвпадат!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Старата парола е неправилна!"
+    },
+    "notif_enter_passwd": {
+        "message": "Въведете паролата си, за да отключите!"
+    },
+    "btn_unlock": {
+        "message": "ОТКЛЮЧИ"
+    },
+    "btn_save": {
+        "message": "ЗАПАЗИ"
+    },
+    "link_review": {
+        "message": "Преглед"
+    },
+    "link_source": {
+        "message": "Отворен код"
+    }
+}

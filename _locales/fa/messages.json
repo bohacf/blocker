@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "قفل کننده مرورگر"
+    },
+    "ext_des": {
+        "message": "امنیت مرورگر خود را با محافظت از رمز عبور در زمان راه‌اندازی و ویژگی قفل با یک کلیک برای جلوگیری از دسترسی غیرمجاز افزایش دهید."
+    },
+    "ext_title": {
+        "message": "برای بستن تمام پنجره‌ها و قفل کردن مرورگر کلیک کنید!"
+    },
+    "title_locked": {
+        "message": "مرورگر قفل شده!"
+    },
+    "title_unlock": {
+        "message": "باز کردن مرورگر"
+    },
+    "title_change_passwd": {
+        "message": "تغییر رمز عبور"
+    },
+    "title_set_passwd": {
+        "message": "تنظیم رمز عبور"
+    },
+    "title_last_passwd": {
+        "message": "رمز عبور قدیمی"
+    },
+    "title_new_passwd": {
+        "message": "رمز عبور جدید"
+    },
+    "title_new_check_passwd": {
+        "message": "تأیید رمز عبور جدید"
+    },
+    "notif_change_passwd": {
+        "message": "رمز عبور با موفقیت تغییر کرد!"
+    },
+    "notif_set_passwd": {
+        "message": "رمز عبور تنظیم شد!"
+    },
+    "notif_wrong_passwd": {
+        "message": "رمز عبور نادرست است!"
+    },
+    "notif_not_match_passwd": {
+        "message": "رمزهای عبور مطابقت ندارند!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "رمز عبور قدیمی نادرست است!"
+    },
+    "notif_enter_passwd": {
+        "message": "برای باز کردن قفل، رمز عبور خود را وارد کنید!"
+    },
+    "btn_unlock": {
+        "message": "باز کردن قفل"
+    },
+    "btn_save": {
+        "message": "ذخیره"
+    },
+    "link_review": {
+        "message": "بررسی"
+    },
+    "link_source": {
+        "message": "منبع باز"
+    }
+}

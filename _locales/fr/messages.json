@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Verrouillage du Navigateur"
+    },
+    "ext_des": {
+        "message": "Améliorez la sécurité de votre navigateur avec une protection par mot de passe au démarrage et une fonction de verrouillage en un clic pour éviter tout accès non autorisé."
+    },
+    "ext_title": {
+        "message": "Cliquez pour fermer toutes les fenêtres et verrouiller le navigateur !"
+    },
+    "title_locked": {
+        "message": "Navigateur Verrouillé !"
+    },
+    "title_unlock": {
+        "message": "Déverrouiller le Navigateur"
+    },
+    "title_change_passwd": {
+        "message": "Changer le Mot de Passe"
+    },
+    "title_set_passwd": {
+        "message": "Définir le Mot de Passe"
+    },
+    "title_last_passwd": {
+        "message": "Ancien Mot de Passe"
+    },
+    "title_new_passwd": {
+        "message": "Nouveau Mot de Passe"
+    },
+    "title_new_check_passwd": {
+        "message": "Confirmer le Nouveau Mot de Passe"
+    },
+    "notif_change_passwd": {
+        "message": "Mot de passe changé avec succès !"
+    },
+    "notif_set_passwd": {
+        "message": "Mot de passe défini !"
+    },
+    "notif_wrong_passwd": {
+        "message": "Mot de passe incorrect !"
+    },
+    "notif_not_match_passwd": {
+        "message": "Les mots de passe ne correspondent pas !"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Ancien mot de passe incorrect !"
+    },
+    "notif_enter_passwd": {
+        "message": "Entrez votre mot de passe pour déverrouiller !"
+    },
+    "btn_unlock": {
+        "message": "DÉVERROUILLER"
+    },
+    "btn_save": {
+        "message": "ENREGISTRER"
+    },
+    "link_review": {
+        "message": "Évaluation"
+    },
+    "link_source": {
+        "message": "Source Ouverte"
+    }
+}

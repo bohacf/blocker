@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Naršyklės Užraktas"
+    },
+    "ext_des": {
+        "message": "Padidinkite savo naršyklės saugumą naudodami slaptažodžio apsaugą paleidimo metu ir vieno spustelėjimo užrakinimo funkciją, kad išvengtumėte neautorizuoto prisijungimo."
+    },
+    "ext_title": {
+        "message": "Spustelėkite, kad uždarytumėte visus langus ir užrakintumėte naršyklę!"
+    },
+    "title_locked": {
+        "message": "Naršyklė Užrakinta!"
+    },
+    "title_unlock": {
+        "message": "Atrakinti Naršyklę"
+    },
+    "title_change_passwd": {
+        "message": "Pakeisti Slaptažodį"
+    },
+    "title_set_passwd": {
+        "message": "Nustatyti Slaptažodį"
+    },
+    "title_last_passwd": {
+        "message": "Senasis Slaptažodis"
+    },
+    "title_new_passwd": {
+        "message": "Naujas Slaptažodis"
+    },
+    "title_new_check_passwd": {
+        "message": "Patvirtinti Naują Slaptažodį"
+    },
+    "notif_change_passwd": {
+        "message": "Slaptažodis sėkmingai pakeistas!"
+    },
+    "notif_set_passwd": {
+        "message": "Slaptažodis nustatytas!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Neteisingas slaptažodis!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Slaptažodžiai nesutampa!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Senasis slaptažodis neteisingas!"
+    },
+    "notif_enter_passwd": {
+        "message": "Įveskite slaptažodį, kad atrakintumėte!"
+    },
+    "btn_unlock": {
+        "message": "Atrakinti"
+    },
+    "btn_save": {
+        "message": "Išsaugoti"
+    },
+    "link_review": {
+        "message": "Apžvalga"
+    },
+    "link_source": {
+        "message": "Atidaryti Šaltinį"
+    }
+}

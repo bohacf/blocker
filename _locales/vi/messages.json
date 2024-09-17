@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Khóa Trình Duyệt"
+    },
+    "ext_des": {
+        "message": "Tăng cường bảo mật cho trình duyệt của bạn với bảo vệ bằng mật khẩu khi khởi động và tính năng khóa một lần nhấp để ngăn chặn truy cập trái phép."
+    },
+    "ext_title": {
+        "message": "Nhấp để đóng tất cả các cửa sổ và khóa trình duyệt!"
+    },
+    "title_locked": {
+        "message": "Trình Duyệt Đã Được Khóa!"
+    },
+    "title_unlock": {
+        "message": "Mở Khóa Trình Duyệt"
+    },
+    "title_change_passwd": {
+        "message": "Thay Đổi Mật Khẩu"
+    },
+    "title_set_passwd": {
+        "message": "Đặt Mật Khẩu"
+    },
+    "title_last_passwd": {
+        "message": "Mật Khẩu Cũ"
+    },
+    "title_new_passwd": {
+        "message": "Mật Khẩu Mới"
+    },
+    "title_new_check_passwd": {
+        "message": "Xác Nhận Mật Khẩu Mới"
+    },
+    "notif_change_passwd": {
+        "message": "Mật khẩu đã được thay đổi thành công!"
+    },
+    "notif_set_passwd": {
+        "message": "Mật khẩu đã được thiết lập!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Mật khẩu không chính xác!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Mật khẩu không khớp!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Mật khẩu cũ không chính xác!"
+    },
+    "notif_enter_passwd": {
+        "message": "Nhập mật khẩu của bạn để mở khóa!"
+    },
+    "btn_unlock": {
+        "message": "MỞ KHÓA"
+    },
+    "btn_save": {
+        "message": "LƯU"
+    },
+    "link_review": {
+        "message": "Đánh Giá"
+    },
+    "link_source": {
+        "message": "Mã Nguồn Mở"
+    }
+}

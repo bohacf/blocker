@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Selaimen Lukija"
+    },
+    "ext_des": {
+        "message": "Paranna selaimesi turvallisuutta salasanasuojauksella käynnistyksen yhteydessä ja yhdellä napsautuksella lukitusominaisuudella estääksesi luvattoman pääsyn."
+    },
+    "ext_title": {
+        "message": "Napsauta sulkeaksesi kaikki ikkunat ja lukitaksesi selaimen!"
+    },
+    "title_locked": {
+        "message": "Selain Lukittu!"
+    },
+    "title_unlock": {
+        "message": "Avaa selain"
+    },
+    "title_change_passwd": {
+        "message": "Vaihda Salasana"
+    },
+    "title_set_passwd": {
+        "message": "Aseta Salasana"
+    },
+    "title_last_passwd": {
+        "message": "Vanha Salasana"
+    },
+    "title_new_passwd": {
+        "message": "Uusi Salasana"
+    },
+    "title_new_check_passwd": {
+        "message": "Vahvista Uusi Salasana"
+    },
+    "notif_change_passwd": {
+        "message": "Salasana muutettu onnistuneesti!"
+    },
+    "notif_set_passwd": {
+        "message": "Salasana on asetettu!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Virheellinen salasana!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Salasanat eivät täsmää!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Vanha salasana on virheellinen!"
+    },
+    "notif_enter_passwd": {
+        "message": "Syötä salasanasi avatakseksi!"
+    },
+    "btn_unlock": {
+        "message": "AVAAMINEN"
+    },
+    "btn_save": {
+        "message": "TALLENNA"
+    },
+    "link_review": {
+        "message": "Arvostelu"
+    },
+    "link_source": {
+        "message": "Avoin Lähdekoodi"
+    }
+}

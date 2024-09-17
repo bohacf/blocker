@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Webbläsarlås"
+    },
+    "ext_des": {
+        "message": "Öka säkerheten för din webbläsare med lösenordsskydd vid start och en-flickslås funktion för att förhindra obehörig åtkomst."
+    },
+    "ext_title": {
+        "message": "Klicka för att stänga alla fönster och låsa webbläsaren!"
+    },
+    "title_locked": {
+        "message": "Webbläsare Låst!"
+    },
+    "title_unlock": {
+        "message": "Lås Upp Webbläsare"
+    },
+    "title_change_passwd": {
+        "message": "Ändra Lösenord"
+    },
+    "title_set_passwd": {
+        "message": "Ställ In Lösenord"
+    },
+    "title_last_passwd": {
+        "message": "Gamla Lösenord"
+    },
+    "title_new_passwd": {
+        "message": "Nytt Lösenord"
+    },
+    "title_new_check_passwd": {
+        "message": "Bekräfta Nytt Lösenord"
+    },
+    "notif_change_passwd": {
+        "message": "Lösenordet har ändrats framgångsrikt!"
+    },
+    "notif_set_passwd": {
+        "message": "Lösenordet har ställts in!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Fel lösenord!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Lösenorden matchar inte!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Gamla lösenordet är felaktigt!"
+    },
+    "notif_enter_passwd": {
+        "message": "Ange ditt lösenord för att låsa upp!"
+    },
+    "btn_unlock": {
+        "message": "LÅS UPP"
+    },
+    "btn_save": {
+        "message": "SPARA"
+    },
+    "link_review": {
+        "message": "Recension"
+    },
+    "link_source": {
+        "message": "Öppen Källkod"
+    }
+}

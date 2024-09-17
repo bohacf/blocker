@@ -1,0 +1,130 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /*    width: 128px;*/
+    height: auto;
+}
+
+html {
+    font-size: 1px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    width: 100%;
+    min-width: 30rem;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4px;
+    padding: 32rem;
+}
+
+main>* {
+    display: flex;
+    flex-direction: column;
+    /*    background: #ccf;*/
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 4px 8px;
+}
+
+#main-logo {
+    width: 128rem;
+    /*    user-select: none;*/
+}
+
+passwd>div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+passwd>input {
+    flex-direction: row;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1rem solid #ccc;
+    border-radius: 4rem;
+    outline: #888;
+    font-size: 16rem;
+    display: flex;
+    /*    flex: 1;*/
+    /*    margin: 4px;*/
+    height: 48rem;
+    margin: 4rem;
+    padding: 4rem 12rem;
+    text-indent: 12rem;
+}
+
+#passwd-title,
+.unlock-title {
+    font-size: 22px;
+    font-weight: 500;
+    user-select: none;
+}
+
+btn>button {
+    transition: all ease-in-out .2s;
+    width: 100%;
+    height: 48rem;
+    border: 1rem solid #ccc;
+    border-radius: 4rem;
+    cursor: pointer;
+    background: #97adeb;
+    color: #fff;
+    font-size: 22rem;
+    font-weight: 500;
+}
+
+btn>button:hover {
+    background: #789bfd;
+}
+
+notif {
+    color: orange;
+    font-size: 14rem;
+    height: 24rem;
+}
+
+footer {
+    font-size: 12rem;
+    /*    position: absolute;
+    bottom: 2rem;*/
+    width: 100%;
+    margin: 0 auto;
+    /*    margin-top: 12rem;*/
+    text-align: right;
+    padding: 8rem 32rem;
+    box-sizing: border-box;
+    color: #ccc;
+    font-size: 12rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer a,
+footer a:link,
+footer a:hover {
+    color: #ccc;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "قفل المتصفح"
+    },
+    "ext_des": {
+        "message": "قم بتحسين أمان متصفحك من خلال حماية كلمة المرور عند بدء التشغيل وميزة القفل بنقرة واحدة لمنع الوصول غير المصرح به."
+    },
+    "ext_title":{
+        "message": "انقر لإغلاق جميع النوافذ وقفل المتصفح!"
+    },
+    "title_locked": {
+        "message": "تم قفل المتصفح!"
+    },
+    "title_unlock": {
+        "message": "فتح المتصفح"
+    },
+    "title_change_passwd": {
+        "message": "تغيير كلمة المرور"
+    },
+    "title_set_passwd": {
+        "message": "تعيين كلمة المرور"
+    },
+    "title_last_passwd": {
+        "message": "كلمة المرور القديمة"
+    },
+    "title_new_passwd": {
+        "message": "كلمة المرور الجديدة"
+    },
+    "title_new_check_passwd": {
+        "message": "تأكيد كلمة المرور الجديدة"
+    },
+    "notif_change_passwd": {
+        "message": "تم تغيير كلمة المرور بنجاح!"
+    },
+    "notif_set_passwd": {
+        "message": "تم تعيين كلمة المرور!"
+    },
+    "notif_wrong_passwd": {
+        "message": "كلمة المرور غير صحيحة!"
+    },
+    "notif_not_match_passwd": {
+        "message": "كلمات المرور لا تتطابق!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "كلمة المرور القديمة غير صحيحة!"
+    },
+    "notif_enter_passwd": {
+        "message": "أدخل كلمة المرور لفتح القفل!"
+    },
+    "btn_unlock": {
+        "message": "فتح"
+    },
+    "btn_save": {
+        "message": "حفظ"
+    },
+    "link_review": {
+        "message": "تقييم"
+    },
+    "link_source": {
+        "message": "مصدر مفتوح"
+    }
+}

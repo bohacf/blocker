@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "브라우저 잠금"
+    },
+    "ext_des": {
+        "message": "시작 시 비밀번호 보호와 원클릭 잠금 기능으로 브라우저 보안을 강화하세요. 무단 접근을 방지합니다."
+    },
+    "ext_title": {
+        "message": "모든 창을 닫고 브라우저를 잠그려면 클릭하세요!"
+    },
+    "title_locked": {
+        "message": "브라우저 잠금됨!"
+    },
+    "title_unlock": {
+        "message": "브라우저 잠금 해제"
+    },
+    "title_change_passwd": {
+        "message": "비밀번호 변경"
+    },
+    "title_set_passwd": {
+        "message": "비밀번호 설정"
+    },
+    "title_last_passwd": {
+        "message": "기존 비밀번호"
+    },
+    "title_new_passwd": {
+        "message": "새 비밀번호"
+    },
+    "title_new_check_passwd": {
+        "message": "새 비밀번호 확인"
+    },
+    "notif_change_passwd": {
+        "message": "비밀번호가 성공적으로 변경되었습니다!"
+    },
+    "notif_set_passwd": {
+        "message": "비밀번호가 설정되었습니다!"
+    },
+    "notif_wrong_passwd": {
+        "message": "잘못된 비밀번호입니다!"
+    },
+    "notif_not_match_passwd": {
+        "message": "비밀번호가 일치하지 않습니다!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "기존 비밀번호가 올바르지 않습니다!"
+    },
+    "notif_enter_passwd": {
+        "message": "잠금 해제를 위해 비밀번호를 입력하세요!"
+    },
+    "btn_unlock": {
+        "message": "잠금 해제"
+    },
+    "btn_save": {
+        "message": "저장"
+    },
+    "link_review": {
+        "message": "리뷰"
+    },
+    "link_source": {
+        "message": "소스 열기"
+    }
+}

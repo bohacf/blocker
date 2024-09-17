@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "ब्राउझर लॉकर्स"
+    },
+    "ext_des": {
+        "message": "स्टार्टअपवर पासवर्ड संरक्षण आणि अनधिकृत प्रवेश रोखण्यासाठी एक क्लिक लॉक वैशिष्ट्यांसह तुमच्या ब्राउझरची सुरक्षा वाढवा."
+    },
+    "ext_title":{
+        "message": "सर्व विंडो बंद करण्यासाठी क्लिक करा आणि ब्राउझर लॉक करा!"
+    },
+    "title_locked": {
+        "message": "ब्राउझर लॉक केला आहे!"
+    },
+    "title_unlock": {
+        "message": "ब्राउझर अनलॉक करा"
+    },
+    "title_change_passwd": {
+        "message": "पासवर्ड बदला"
+    },
+    "title_set_passwd": {
+        "message": "पासवर्ड सेट करा"
+    },
+    "title_last_passwd": {
+        "message": "जुना पासवर्ड"
+    },
+    "title_new_passwd": {
+        "message": "नवा पासवर्ड"
+    },
+    "title_new_check_passwd": {
+        "message": "नवा पासवर्ड पुष्टी करा"
+    },
+    "notif_change_passwd": {
+        "message": "पासवर्ड यशस्वीरित्या बदलला!"
+    },
+    "notif_set_passwd": {
+        "message": "पासवर्ड सेट केला आहे!"
+    },
+    "notif_wrong_passwd": {
+        "message": "चुका पासवर्ड!"
+    },
+    "notif_not_match_passwd": {
+        "message": "पासवर्ड जुळत नाहीत!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "जुना पासवर्ड चुकीचा आहे!"
+    },
+    "notif_enter_passwd": {
+        "message": "अनलॉक करण्यासाठी तुमचा पासवर्ड प्रविष्ट करा!"
+    },
+    "btn_unlock": {
+        "message": "अनलॉक"
+    },
+    "btn_save": {
+        "message": "जतन करा"
+    },
+    "link_review": {
+        "message": "पुनरावलोकन"
+    },
+    "link_source": {
+        "message": "ओपन स्रोतनिर्मित"
+    }
+}

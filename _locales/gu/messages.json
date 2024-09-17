@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "બ્રાઉઝર લૉકર"
+    },
+    "ext_des": {
+        "message": "સ્ટાર્ટઅપ પર પાસવર્ડ રક્ષણ અને અનધિકૃત પ્રવેશથી અટકાવવા માટે એક-ક્લિક લૉક સુવિધા સાથે તમારા બ્રાઉઝરની સુરક્ષાને વધારવા માટે."
+    },
+    "ext_title": {
+        "message": "બ્રાઉઝરને બંધ કરવા માટે ક્લિક કરો અને લૉક કરો!"
+    },
+    "title_locked": {
+        "message": "બ્રાઉઝર લોક થયેલ છે!"
+    },
+    "title_unlock": {
+        "message": "બ્રાઉઝર અનલોક કરો"
+    },
+    "title_change_passwd": {
+        "message": "પાસવર્ડ બદલવો"
+    },
+    "title_set_passwd": {
+        "message": "પાસવર્ડ સેટ કરો"
+    },
+    "title_last_passwd": {
+        "message": "જૂનો પાસવર્ડ"
+    },
+    "title_new_passwd": {
+        "message": "નવી પાસવર્ડ"
+    },
+    "title_new_check_passwd": {
+        "message": "નવી પાસવર્ડની પુષ્ટિ કરો"
+    },
+    "notif_change_passwd": {
+        "message": "પાસવર્ડ સફળતાપૂર્વક બદલવામાં આવ્યો!"
+    },
+    "notif_set_passwd": {
+        "message": "પાસવર્ડ સેટ કરવામાં આવ્યો છે!"
+    },
+    "notif_wrong_passwd": {
+        "message": "ખોટો પાસવર્ડ!"
+    },
+    "notif_not_match_passwd": {
+        "message": "પાસવર્ડ મેચ કરતા નથી!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "જૂનો પાસવર્ડ ખોટો છે!"
+    },
+    "notif_enter_passwd": {
+        "message": "અનલોક કરવા માટે તમારું પાસવર્ડ દાખલ કરો!"
+    },
+    "btn_unlock": {
+        "message": "અનલોક"
+    },
+    "btn_save": {
+        "message": "સેવ"
+    },
+    "link_review": {
+        "message": "સમિક્ષા"
+    },
+    "link_source": {
+        "message": "ઓપન સોર્સ"
+    }
+}

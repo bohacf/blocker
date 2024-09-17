@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "浏览器锁定器"
+    },
+    "ext_des": {
+        "message": "通过启动时密码保护和一键锁定功能提升浏览器的安全性，以防止未经授权的访问。"
+    },
+    "ext_title":{
+        "message": "点击以关闭所有窗口并锁定浏览器！"
+    },
+    "title_locked": {
+        "message": "浏览器已锁定！"
+    },
+    "title_unlock": {
+        "message": "解锁浏览器"
+    },
+    "title_change_passwd": {
+        "message": "更改密码"
+    },
+    "title_set_passwd": {
+        "message": "设置密码"
+    },
+    "title_last_passwd": {
+        "message": "旧密码"
+    },
+    "title_new_passwd": {
+        "message": "新密码"
+    },
+    "title_new_check_passwd": {
+        "message": "确认新密码"
+    },
+    "notif_change_passwd": {
+        "message": "密码更改成功！"
+    },
+    "notif_set_passwd": {
+        "message": "密码已设置！"
+    },
+    "notif_wrong_passwd": {
+        "message": "密码错误！"
+    },
+    "notif_not_match_passwd": {
+        "message": "密码不匹配！"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "旧密码不正确！"
+    },
+    "notif_enter_passwd": {
+        "message": "请输入密码以解锁！"
+    },
+    "btn_unlock": {
+        "message": "解锁"
+    },
+    "btn_save": {
+        "message": "保存"
+    },
+    "link_review": {
+        "message": "评价"
+    },
+    "link_source": {
+        "message": "开源"
+    }
+}

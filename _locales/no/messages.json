@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Nettleser Lås"
+    },
+    "ext_des": {
+        "message": "Øk sikkerheten til nettleseren din med passordbeskyttelse ved oppstart og en ett-klikks låsefunksjon for å forhindre uautorisert tilgang."
+    },
+    "ext_title": {
+        "message": "Klikk for å lukke alle vinduer og låse nettleseren!"
+    },
+    "title_locked": {
+        "message": "Nettleser Låst!"
+    },
+    "title_unlock": {
+        "message": "Lås Opp Nettleser"
+    },
+    "title_change_passwd": {
+        "message": "Endre Passord"
+    },
+    "title_set_passwd": {
+        "message": "Sett Passord"
+    },
+    "title_last_passwd": {
+        "message": "Gammelt Passord"
+    },
+    "title_new_passwd": {
+        "message": "Nytt Passord"
+    },
+    "title_new_check_passwd": {
+        "message": "Bekreft Nytt Passord"
+    },
+    "notif_change_passwd": {
+        "message": "Passordet ble endret!"
+    },
+    "notif_set_passwd": {
+        "message": "Passordet er satt!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Feil passord!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Passordene samsvarer ikke!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Gammelt passord er feil!"
+    },
+    "notif_enter_passwd": {
+        "message": "Skriv inn passordet ditt for å låse opp!"
+    },
+    "btn_unlock": {
+        "message": "LÅS OPP"
+    },
+    "btn_save": {
+        "message": "LAGRE"
+    },
+    "link_review": {
+        "message": "Anmeldelse"
+    },
+    "link_source": {
+        "message": "Åpen Kildekode"
+    }
+}

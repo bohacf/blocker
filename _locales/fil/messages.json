@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Tagapag-lock ng Browser"
+    },
+    "ext_des": {
+        "message": "Palakasin ang seguridad ng iyong browser gamit ang proteksyon ng password sa pagsisimula at isang tampok na pag-lock ng isang pag-click upang maiwasan ang hindi awtorisadong pag-access."
+    },
+    "ext_title": {
+        "message": "Mag-click upang isara ang lahat ng mga bintana at i-lock ang browser!"
+    },
+    "title_locked": {
+        "message": "Nakakandado ang Browser!"
+    },
+    "title_unlock": {
+        "message": "I-unlock ang Browser"
+    },
+    "title_change_passwd": {
+        "message": "Palitan ang Password"
+    },
+    "title_set_passwd": {
+        "message": "I-set ang Password"
+    },
+    "title_last_passwd": {
+        "message": "Lumang Password"
+    },
+    "title_new_passwd": {
+        "message": "Bagong Password"
+    },
+    "title_new_check_passwd": {
+        "message": "Kumpirmahin ang Bagong Password"
+    },
+    "notif_change_passwd": {
+        "message": "Matagumpay na nabago ang password!"
+    },
+    "notif_set_passwd": {
+        "message": "Naitakda na ang password!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Mali ang password!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Hindi magkatugma ang mga password!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Mali ang lumang password!"
+    },
+    "notif_enter_passwd": {
+        "message": "Ilagay ang iyong password upang i-unlock!"
+    },
+    "btn_unlock": {
+        "message": "I-UNLOCK"
+    },
+    "btn_save": {
+        "message": "ISAVE"
+    },
+    "link_review": {
+        "message": "Suriin"
+    },
+    "link_source": {
+        "message": "Bukas na Pinagmulan"
+    }
+}

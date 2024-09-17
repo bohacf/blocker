@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Böngésző Zár"
+    },
+    "ext_des": {
+        "message": "Növelje böngészője biztonságát jelszóvédelemmel az indításkor és egy kattintásos zárolási funkcióval az illetéktelen hozzáférés megakadályozására."
+    },
+    "ext_title":{
+        "message": "Kattintson az összes ablak bezárásához és a böngésző zárolásához!"
+    },
+    "title_locked": {
+        "message": "Böngésző Zárva!"
+    },
+    "title_unlock": {
+        "message": "Böngésző Feloldása"
+    },
+    "title_change_passwd": {
+        "message": "Jelszó Módosítása"
+    },
+    "title_set_passwd": {
+        "message": "Jelszó Beállítása"
+    },
+    "title_last_passwd": {
+        "message": "Régi Jelszó"
+    },
+    "title_new_passwd": {
+        "message": "Új Jelszó"
+    },
+    "title_new_check_passwd": {
+        "message": "Új Jelszó Megerősítése"
+    },
+    "notif_change_passwd": {
+        "message": "Jelszó sikeresen megváltoztatva!"
+    },
+    "notif_set_passwd": {
+        "message": "Jelszó beállítva!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Hibás jelszó!"
+    },
+    "notif_not_match_passwd": {
+        "message": "A jelszavak nem egyeznek!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "A régi jelszó hibás!"
+    },
+    "notif_enter_passwd": {
+        "message": "Adja meg a jelszót a feloldáshoz!"
+    },
+    "btn_unlock": {
+        "message": "FELOLDÁS"
+    },
+    "btn_save": {
+        "message": "MENTÉS"
+    },
+    "link_review": {
+        "message": "Felülvizsgálat"
+    },
+    "link_source": {
+        "message": "Nyílt Forrás"
+    }
+}

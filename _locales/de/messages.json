@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Browser-Sperre"
+    },
+    "ext_des": {
+        "message": "Erhöhen Sie die Sicherheit Ihres Browsers mit Passwortschutz beim Start und einer Ein-Klick-Sperrfunktion, um unbefugten Zugriff zu verhindern."
+    },
+    "ext_title":{
+        "message": "Klicken Sie, um alle Fenster zu schließen und den Browser zu sperren!"
+    },
+    "title_locked": {
+        "message": "Browser Gesperrt!"
+    },
+    "title_unlock": {
+        "message": "Browser Entsperren"
+    },
+    "title_change_passwd": {
+        "message": "Passwort Ändern"
+    },
+    "title_set_passwd": {
+        "message": "Passwort Festlegen"
+    },
+    "title_last_passwd": {
+        "message": "Altes Passwort"
+    },
+    "title_new_passwd": {
+        "message": "Neues Passwort"
+    },
+    "title_new_check_passwd": {
+        "message": "Neues Passwort Bestätigen"
+    },
+    "notif_change_passwd": {
+        "message": "Passwort erfolgreich geändert!"
+    },
+    "notif_set_passwd": {
+        "message": "Passwort wurde festgelegt!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Falsches Passwort!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Passwörter stimmen nicht überein!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Altes Passwort ist falsch!"
+    },
+    "notif_enter_passwd": {
+        "message": "Geben Sie Ihr Passwort ein, um zu entsperren!"
+    },
+    "btn_unlock": {
+        "message": "ENTSPERREN"
+    },
+    "btn_save": {
+        "message": "SPEICHERN"
+    },
+    "link_review": {
+        "message": "Bewertung"
+    },
+    "link_source": {
+        "message": "Open Source"
+    }
+}

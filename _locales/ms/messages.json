@@ -1,0 +1,62 @@
+{
+    "ext_name": {
+        "message": "Kunci Penyemak Imbas"
+    },
+    "ext_des": {
+        "message": "Tingkatkan keselamatan penyemak imbas anda dengan perlindungan kata laluan semasa permulaan dan ciri kunci satu klik untuk mencegah akses tanpa kebenaran."
+    },
+    "ext_title":{
+        "message": "Klik untuk menutup semua tingkap dan mengunci penyemak imbas!"
+    },
+    "title_locked": {
+        "message": "Penyemak imbas Terkunci!"
+    },
+    "title_unlock": {
+        "message": "Buka Kunci Penyemak Imbas"
+    },
+    "title_change_passwd": {
+        "message": "Tukar Kata Laluan"
+    },
+    "title_set_passwd": {
+        "message": "Tetapkan Kata Laluan"
+    },
+    "title_last_passwd": {
+        "message": "Kata Laluan Lama"
+    },
+    "title_new_passwd": {
+        "message": "Kata Laluan Baru"
+    },
+    "title_new_check_passwd": {
+        "message": "Sahkan Kata Laluan Baru"
+    },
+    "notif_change_passwd": {
+        "message": "Kata laluan berjaya ditukar!"
+    },
+    "notif_set_passwd": {
+        "message": "Kata laluan telah ditetapkan!"
+    },
+    "notif_wrong_passwd": {
+        "message": "Kata laluan salah!"
+    },
+    "notif_not_match_passwd": {
+        "message": "Kata laluan tidak sepadan!"
+    },
+    "notif_last_wrong_passwd": {
+        "message": "Kata laluan lama salah!"
+    },
+    "notif_enter_passwd": {
+        "message": "Masukkan kata laluan anda untuk membuka kunci!"
+    },
+    "btn_unlock": {
+        "message": "BUKA KUNCI"
+    },
+    "btn_save": {
+        "message": "SIMPAN"
+    },
+    "link_review": {
+        "message": "Ulasan"
+    },
+    "link_source": {
+        "message": "Kod Sumber Terbuka"
+    }
+}
