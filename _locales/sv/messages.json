@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Öppen Källkod"
+    },
+    "notif_first": {
+        "message": "<i>Varning:<br>1. Denna utvidgning kommer endast att fungera efter att ett lösenord har ställts in. <br>2. Se till att inga liknande tillägg är installerade innan du ställer in lösenordet, eftersom detta kan orsaka problem med webbläsaren.</i>"
     }
 }

@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Avatud Kood"
+    },
+    "notif_first": {
+        "message": "<i>Hoiatus:<br>1. See laiendus hakkab tööle alles pärast parooli seadmist. <br>2. Palun veenduge, et enne parooli seadmist ei oleks sarnaseid laiendusi installitud, kuna see võib põhjustada brauseri talitlushäireid.</i>"
     }
 }

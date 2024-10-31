@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Nyílt Forrás"
+    },
+    "notif_first": {
+        "message": "<i>Figyelmeztetés:<br>1. Ez a bővítmény csak a jelszó beállítása után lesz működőképes. <br>2. Kérjük, győződjön meg arról, hogy a jelszó beállítása előtt nincsenek telepítve hasonló bővítmények, mivel ez a böngésző hibás működését okozhatja.</i>"
     }
 }

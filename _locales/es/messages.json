@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Código Fuente"
+    },
+    "notif_first": {
+        "message": "<i>Advertencia:<br>1. Esta extensión solo será funcional después de establecer una contraseña. <br>2. Asegúrese de que no haya extensiones similares instaladas antes de establecer la contraseña, ya que esto puede causar un mal funcionamiento del navegador.</i>"
     }
 }

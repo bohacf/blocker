@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Open Source"
+    },
+    "notif_first": {
+        "message": "<i>Upozornění:<br>1. Toto rozšíření bude funkční pouze po nastavení hesla. <br>2. Ujistěte se, že před nastavením hesla nejsou nainstalovány žádné podobné rozšíření, protože to může způsobit selhání prohlížeče.</i>"
     }
 }

@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Codi Font"
+    },
+    "notif_first": {
+        "message": "<i>Advertència:<br>1. Aquesta extensió només funcionarà després d'establir una contrasenya. <br>2. Assegureu-vos que no hi hagi extensions similars instal·lades abans d'establir la contrasenya, ja que això pot fer que el navegador no funcioni correctament.</i>"
     }
 }

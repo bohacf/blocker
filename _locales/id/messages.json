@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Sumber Terbuka"
+    },
+    "notif_first": {
+        "message": "<i>Peringatan:<br>1. Ekstensi ini hanya akan berfungsi setelah kata sandi diatur. <br>2. Harap pastikan bahwa tidak ada ekstensi serupa yang terinstal sebelum mengatur kata sandi, karena ini dapat menyebabkan browser tidak berfungsi dengan baik.</i>"
     }
 }

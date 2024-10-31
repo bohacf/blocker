@@ -58,5 +58,8 @@
     },
     "link_source": {
         "message": "Avoin Lähdekoodi"
+    },
+    "notif_first": {
+        "message": "<i>Varoitus:<br>1. Tämä laajennus toimii vain, kun salasana on asetettu. <br>2. Varmista, että salasanaa asettaessasi ei ole asennettu samanlaisia laajennuksia, sillä tämä voi aiheuttaa selaimen toimintahäiriöitä.</i>"
     }
 }
